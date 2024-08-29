@@ -1,0 +1,2 @@
+# ref-and-out-example
+ This repository contains a simple C# project that demonstrates the use of the ref and out keywords. The project includes examples of how these keywords can be used to pass variables by reference, allowing methods to modify the original values of arguments passed to them.  The ref keyword is used when the variable is initialized before being passed, while the out keyword is used when the variable is assigned a value within the method.
